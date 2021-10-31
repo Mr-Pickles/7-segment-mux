@@ -14,4 +14,5 @@ I used Thonny to program the Pico.
 After running the application, the display will show "00" and the program stops, with the cursor coming back to the user.
 
 You can type at the command line in Thonny ">>> value = 254" and the display should update to "FE".
+
 ![image](https://user-images.githubusercontent.com/7780248/139576426-2f0203e9-4aeb-4d17-896c-d14298622b81.png)
